@@ -17,6 +17,5 @@ function generarDominios() {
 
   return dominios;
 }
-
 const listaDominios = generarDominios();
 console.log(listaDominios);
